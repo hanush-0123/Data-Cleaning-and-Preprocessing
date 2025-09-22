@@ -1,0 +1,10 @@
+CustomerName,Gender,Country,Age,JoinDate,PurchaseAmount
+Alice ,Female,USA,25,2020/01/15,120.0
+Bob,male,usa,35,15-01-2020,230.5
+alice,Female,U.S.A.,25,2020-01-15,120
+Carol,FEMALE,India,,01.15.2020,340.0
+Dave,male ,INDIA,Thirty,2020/01/15,
+Eve,,india,29,,210.2
+,MALE,UK,40,2020-01-15,190.0
+Alice ,female,USA,25,2020/01/15,120.0
+Carol,Female,uk ,29,15-01-2020,210.2
